@@ -1,2 +1,2 @@
 # Python
-# YOUTUBE LECTURE PRATICE NOTE AND CODE
+youtube lecture codes and notes
